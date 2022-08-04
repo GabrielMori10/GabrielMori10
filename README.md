@@ -18,5 +18,5 @@
 - 💬 Inglês
  
 ## 🌐 Contatos
-- Discord: Gabriel_Mori#8025
-- GitHub: @GabrielMori10
+- 💫 Discord: Gabriel_Mori#8025
+- 💫 GitHub: @GabrielMori10
