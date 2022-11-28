@@ -20,3 +20,6 @@
 ## 🌐 Contatos
 - 💫 Discord: Gabriel_Mori#8025
 - 💫 GitHub: @GabrielMori10
+
+## ⭐ Foto Preferida
+![finallyroblox](https://user-images.githubusercontent.com/81196020/204369059-0041616c-22ea-4d3f-9f1a-12a9e1a7adc1.png)
