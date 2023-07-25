@@ -3,13 +3,11 @@
 💸 Tenho o objetivo de me tornar um desenvolvedor de sucesso!
 
 ## 📜 Objetivos Atuais
-- 💻 Estudar front-end
+- 💻 Aprender back-end
 - 🔨 Conhecer ferramentas úteis para desenvolvimento
 
 ## 📖 Estudando
-- 🧰 HTML
-- 🧙‍♂️ CSS
-- ✨ JS
+- ✨ Node.js
  
 ## 😁 Outros Interesses
 - 🎮 Jogos
@@ -18,5 +16,5 @@
 - 💬 Inglês
  
 ## 🌐 Contatos
-- 💫 Discord: Gabriel_Mori#8025
+- 💫 Discord: gabrielmori
 - 💫 GitHub: @GabrielMori10
