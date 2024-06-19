@@ -4,6 +4,8 @@
 
 ## 📜 Tecnologias
 - 💻 Javascript
+- 💫 Python
+- 🌑 Lua
 
 ## 📖 Estudando
 - ✨ React.js
