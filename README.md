@@ -17,4 +17,3 @@
  
 ## 🌐 Contatos
 - 💫 Discord: gabrielmori
-- 💫 GitHub: @GabrielMori10
