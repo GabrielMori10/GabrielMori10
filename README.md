@@ -1,13 +1,12 @@
 # 👋 Olá, meu nome é Gabriel!
 
-💸 Tenho o objetivo de me tornar um desenvolvedor de sucesso!
+💸 Tenho o objetivo de me tornar um desenvolvedor front-end!
 
-## 📜 Objetivos Atuais
-- 💻 Aprender back-end
-- 🔨 Conhecer ferramentas úteis para desenvolvimento
+## 📜 Tecnologias
+- 💻 Javascript
 
 ## 📖 Estudando
-- ✨ Node.js
+- ✨ React.js
  
 ## 😁 Outros Interesses
 - 🎮 Jogos
